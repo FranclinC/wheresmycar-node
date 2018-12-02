@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/FranclinC/wheresmycar-node#readme",
   "dependencies": {
+    "axios": "^0.18.0",
+    "onoff": "^3.2.2",
     "rc522": "^0.2.0",
     "rc522-rfid": "^14.1.10"
   }
